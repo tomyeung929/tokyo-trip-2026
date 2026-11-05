@@ -4,7 +4,7 @@ Independent public travel guide in Cantonese. Static HTML, CSS and JavaScript; n
 
 ## Update
 
-Edit `trip-data.json`, then run `node build.mjs` to regenerate `index.html`. Map labels must be updated together with itinerary point numbers. Increment the cache version in `sw.js` whenever published files change. GitHub Pages serves the root of the `main` branch. All paths are relative for project-site hosting.
+Edit `trip-data.json`, then run `node build.mjs` to regenerate `index.html`. Map labels must be updated together with itinerary point numbers. Increment the cache version in `sw.js` whenever published files change. GitHub Actions validates and deploys the static site from the `main` branch using `.github/workflows/pages.yml`. Only website assets enter the Pages artifact. All paths are relative for project-site hosting.
 
 ## Offline
 

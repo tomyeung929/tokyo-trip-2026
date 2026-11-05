@@ -1,5 +1,5 @@
 {
-  "updated":"2026-11-05",
+  "updated":"2026-11-06",
   "list":"https://www.google.com/maps/@35.5356161,136.9191237,691896m/data=!3m1!1e3!4m2!11m1!2sfNCkEX2oukLOJYB0iNipBff9MoVxrw",
   "days":[
     {"id":1,"date":"11.08","weekday":"星期日","title":"落地東京，慢慢嚟","area":"成田 → 新宿 → 東京住宿區","tag":"入境日 · 鐵路","photo":"tokyo.jpg","intro":"今日只做三件事：入境、入住、食好啲。留返精神，聽日先正式行街。","note":"15:00 抵達只係沿用計劃，未核對機票。酒店未定；地圖②係原幡ヶ谷住宿區參考，唔代表已訂 Sakura Hotel。","route":["Narita Airport Terminal 2 Japan","Shinjuku Station Tokyo","Hatagaya Station Tokyo"],"mode":"transit","stops":[
@@ -75,7 +75,7 @@
   ],
   "hotels":[
     {"name":"相鐵 Fresa Inn 東新宿站前","area":"東京 · 11/8–10 · 2晚","room":"Twin 約21–24㎡ · 兩張120cm床","text":"東京優先比較：近東新宿站，房型較適合兩人分床。前往新宿南口取車要另預交通時間。","price":"目標 HK$500／房／晚；指定日期雙床價未核實，可能超預算。","url":"https://sotetsu-hotels.com/en/fresa-inn/higashishinjuku/","query":"Sotetsu Fresa Inn Higashi Shinjuku"},
-    {"name":"相鐵 Fresa Inn 東京東陽町","area":"東京 · 11/8–10 · 2晚","room":"Twin 約21.1㎡ · 兩張120cm床","text":"備選：有正常雙床房。距原宿、澀谷及新宿取車點較遠，只有房價明顯較低先值得轉區。","price":"目標 HK$500／房／晚；未核實房價及房量。","url":"https://sotetsu-hotels.com/en/fresa-inn/toyocho/","query":"Sotetsu Fresa Inn Tokyo Toyocho"},
+    {"name":"相鐵 Fresa Inn 東京東陽町","area":"東京 · 11/8–10 · 2晚","room":"Twin 約21.1㎡ · 兩張120cm床","text":"備選：有正常雙床房。距原宿、澀谷及新宿取車點較遠，只有房價明顯較低先值得轉區。官方部分頁面目前維護中，訂房前再確認。","price":"目標 HK$500／房／晚；未核實房價及房量。","url":"https://sotetsu-hotels.com/en/fresa-inn/toyocho/","query":"Sotetsu Fresa Inn Tokyo Toyocho"},
     {"name":"東橫 INN 富士河口湖大橋","area":"河口湖 · 11/10–12 · 2晚","room":"須選禁煙 Twin · 唔好揀 Double","text":"自駕預算候選，基本商務風格。官方列免費停車位、先到先得；入住前確認早餐及停車安排。","price":"目標 HK$500／房／晚；未核實指定日期總房價。","url":"https://www.toyoko-inn.com/eng/campaign/pickup/kawaguchiko/","query":"Toyoko Inn Fuji Kawaguchiko Ohashi"},
     {"name":"West Inn 富士吉田","area":"富士吉田 · 11/10–12 · 2晚","room":"Twin 約19–25㎡ · 兩張semi-double床","text":"富士山區另一選擇，有停車安排，地段有便利店。離湖邊較遠，Day 4要按位置微調出門時間。","price":"官網一般Twin ¥13,000起，唔係你日期報價；可能需要加少少預算。","url":"https://www.westinn.jp/en/stay","query":"West Inn Fujiyoshida"}
   ]
