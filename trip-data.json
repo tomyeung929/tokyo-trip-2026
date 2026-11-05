@@ -544,22 +544,33 @@
       "query": "Sotetsu Fresa Inn Tokyo Toyocho"
     },
     {
+      "name": "Asia Hotel 河口湖／アジアホテル河口湖",
+      "area": "河口湖 · 11/10–12 · 2晚",
+      "status": "11/6 查詢有房 · 未預訂",
+      "room": "禁煙 Twin 約25㎡ · 兩張單人床 · 私人浴廁",
+      "text": "符合酒店住宿要求；Booking.com評分8.0／46則，免費私人泊車。查詢兩成人、一房、11/10入住及11/12退房，頁面可選1間。免費取消期限顯示11/10 18:00前；以最終訂房條款為準。",
+      "price": "兩晚HK$1,215＋頁面列10% VAT，估算總額約HK$1,337，平均每晚約HK$669。屬查詢時報價，未鎖房；最終稅費及匯率以結算為準。",
+      "url": "https://www.booking.com/hotel/jp/aziahoteruhe-kou-hu-fu-shi-he-kou-hu-ting.html?checkin=2026-11-10&checkout=2026-11-12&group_adults=2&no_rooms=1&selected_currency=HKD",
+      "query": "アジアホテル河口湖 小立3804",
+      "linkLabel": "指定日期房型／訂房"
+    },
+    {
       "name": "Fujisan Station Hotel 富士山站酒店",
       "area": "富士吉田 · 11/10–12 · 2晚",
-      "status": "新增候選 · 房量待核實",
+      "status": "指定日期官網無雙床空房",
       "room": "禁煙 Twin 21㎡ · 兩張120cm床",
       "text": "優先比較：富士山站步行約2分鐘，免費早餐及35個免費車位。揀普通Twin，避免床貼埋嘅Hollywood Twin。去河口湖需揸車；早出發日可預先準備早餐。",
-      "price": "預算目標 HK$500–1,000／房／晚，建議優先查預算上半段。官方搜尋索引曾列Twin每人¥8,750起（兩人¥17,500），並非11/10–12報價；即時頁面未提供可核實房價／房量。",
+      "price": "2026/11/6 查官方庫存：11/10及11/11均無可訂雙床房；唔作今次可訂推薦。",
       "url": "https://www.fujisanstation-hotel.com/en/guestroom/",
       "query": "Fujisan Station Hotel Fujiyoshida"
     },
     {
       "name": "Resort Inn 芙蓉 河口湖 Inter",
       "area": "富士吉田 · 11/10–12 · 2晚",
-      "status": "新增候選 · 房量待核實",
+      "status": "指定日期官網無雙床空房",
       "room": "禁煙標準 Twin 21.5㎡ · 兩張semi-double床",
       "text": "自駕實用候選：普通車免費泊車、住客可用附設大浴場；房內有私人淋浴及廁所。選標準Twin；16.2㎡ Petit Twin係一張床加額外床。偏實用商務風格，唔係新式精品酒店。早餐是否包按方案確認。",
-      "price": "預算目標 HK$500–1,000／房／晚。官網標準Twin一般每房¥10,300起；呢個係起價，未核實11/10–12實價及房量。",
+      "price": "2026/11/6 查官方庫存：11/10及11/11均無可訂雙床房；唔作今次可訂推薦。",
       "url": "https://fuyo-hs.jp/hotel/room",
       "query": "Resort Inn Fuyo Kawaguchiko Inter"
     },
