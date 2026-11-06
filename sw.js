@@ -1,4 +1,4 @@
-const CACHE='tokyo-fuji-trip-v5';
+const CACHE='tokyo-fuji-trip-v6';
 const FILES=['./','./index.html','./style.css','./app.js','./trip-data.json','./icon.svg','./manifest.webmanifest','./fuji.jpg','./tokyo.jpg','./kamakura.jpg',...Array.from({length:5},(_,i)=>`./day-${i+1}-map.png`)];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('tokyo-fuji-trip-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
