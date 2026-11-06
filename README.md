@@ -1,6 +1,6 @@
 # 東京・富士山 五日秋旅 2026
 
-Independent public travel guide in Cantonese. Static HTML, CSS and JavaScript; no tracking, accounts or private booking information. All times are Japan Standard Time. Hotels, rental cars and flights are unconfirmed planning references.
+Independent public travel guide in Cantonese. Static HTML, CSS and JavaScript; no tracking, accounts or private booking information. All times are Japan Standard Time. The two hotels are confirmed by the traveler; booked room types and rates remain unspecified. Rental cars and flight times are unconfirmed planning references.
 
 ## Update
 
@@ -18,6 +18,6 @@ Photos from Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/license
 - Landry Miguel: https://commons.wikimedia.org/wiki/File:Shibuya_Crossing.jpg
 - Daniel M. Dobkin: https://commons.wikimedia.org/wiki/File:The_Great_Buddha_at_Kamakura.jpg
 
-Static maps: © OpenStreetMap contributors, https://www.openstreetmap.org/copyright . Dashed lines show stop order, not roads or navigation. Hotel points are provisional area references.
+Static maps: © OpenStreetMap contributors, https://www.openstreetmap.org/copyright . Dashed lines show stop order, not roads or navigation. Hotel points reflect the two confirmed properties.
 
 No affiliation with hotels, transport providers, or photographers.

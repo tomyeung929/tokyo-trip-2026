@@ -7,15 +7,14 @@
       "date": "11.08",
       "weekday": "星期日",
       "title": "落地東京，慢慢嚟",
-      "area": "成田 → 新宿 → 東京住宿區",
+      "area": "成田 → 有明相鐵 GRAND FRESA",
       "tag": "入境日 · 鐵路",
       "photo": "tokyo.jpg",
       "intro": "今日只做三件事：入境、入住、食好啲。留返精神，聽日先正式行街。",
-      "note": "15:00 抵達只係沿用計劃，未核對機票。酒店未定；地圖②係原幡ヶ谷住宿區參考，唔代表已訂 Sakura Hotel。",
+      "note": "15:00抵達及第二航廈仍待核對機票。今晚入住已確認嘅有明相鐵 GRAND FRESA；鐵路及到店時間為估算，航班晚到就順延。",
       "route": [
         "Narita Airport Terminal 2 Japan",
-        "Shinjuku Station Tokyo",
-        "Hatagaya Station Tokyo"
+        "Sotetsu Grand Fresa Tokyo Bay Ariake 3-6-6 Ariake Tokyo"
       ],
       "mode": "transit",
       "stops": [
@@ -27,32 +26,32 @@
           "Narita Airport Terminal 2 Japan"
         ],
         [
-          "16:30–17:45",
+          "16:30–18:00",
           "1 → 2",
-          "Narita Express → 新宿",
-          "預留買票及候車時間；實際班次、票價以 JR 當日資料為準。唔好預先鎖死接駁時間。",
-          "Shinjuku Station Tokyo"
+          "搭鐵路往有明",
+          "按即時導航選車；可經品川／大崎轉臨海線到國際展示場。預留候車、轉車及步行；班次以當日為準。",
+          "Sotetsu Grand Fresa Tokyo Bay Ariake 3-6-6 Ariake Tokyo"
         ],
         [
-          "17:45–18:30",
+          "18:00–18:30",
           "2",
-          "前往酒店、辦理入住",
-          "住宿未定。若住幡ヶ谷，由新宿轉京王新線；若改東新宿，改搭地鐵／的士，毋須去幡ヶ谷。",
-          ""
+          "有明相鐵 GRAND FRESA｜入住",
+          "國際展示場站步行約3分鐘。住宿已確認；房型及早餐是否包括以訂單為準。",
+          "Sotetsu Grand Fresa Tokyo Bay Ariake 3-6-6 Ariake Tokyo"
         ],
         [
           "18:30–19:30",
           "2",
           "放行李、附近補給",
-          "買水、早餐或小食，確認翌日出門路線。兩個人共一間 Twin 雙床房。",
+          "買水、小食，確認翌日往原宿路線；兩人入住，實際床型以訂單為準。",
           ""
         ],
         [
           "19:30–20:30",
           "2",
           "附近食晚餐",
-          "幡ヶ谷方案：Sakura Cafe；轉住其他區就揀酒店附近，唔特登跨區食飯。參考預算每人¥1,000–2,000。",
-          "Sakura Cafe Hatagaya Tokyo"
+          "喺有明酒店附近食，參考預算每人¥1,000–2,000；太攰就簡單食完返房休息。",
+          "Sotetsu Grand Fresa Tokyo Bay Ariake 3-6-6 Ariake Tokyo"
         ],
         [
           "20:30–21:30",
@@ -83,17 +82,17 @@
       "mode": "walking",
       "stops": [
         [
-          "08:00–08:45",
+          "07:45–08:15",
           "1",
           "早餐、準備出門",
-          "酒店未定；按最終地址調整出門時間，目標09:30到明治神宮。",
-          ""
+          "有明酒店出發；早餐是否包以訂單為準。目標08:15出門，09:30到明治神宮。",
+          "Sotetsu Grand Fresa Tokyo Bay Ariake 3-6-6 Ariake Tokyo"
         ],
         [
-          "08:45–09:30",
+          "08:15–09:30",
           "1 → 2",
           "搭車往原宿／明治神宮",
-          "由酒店搭鐵路，再步行入神宮。地圖①係幡ヶ谷區參考，換酒店後以實際地址為準。",
+          "由國際展示場搭臨海線，經大崎轉JR往原宿；按即時班次轉車，連步行預約75分鐘。地圖①係已確認有明酒店。",
           "Meiji Jingu Tokyo"
         ],
         [
@@ -167,18 +166,18 @@
           "Uobei Shibuya Dogenzaka Tokyo"
         ],
         [
-          "19:00–20:00",
+          "19:00–20:15",
           "5 → 1",
           "返酒店",
           "今晚整理行李，聽朝退房後唔再返東京酒店。",
-          ""
+          "Sotetsu Grand Fresa Tokyo Bay Ariake 3-6-6 Ariake Tokyo"
         ],
         [
-          "20:00–21:30",
+          "20:15–21:30",
           "1",
           "執行李、確認租車資料",
-          "確認取車地址、營業時間、行李容量及異地還車。所有酒店與租車仍屬候選。",
-          ""
+          "酒店已確認；租車仍屬候選，核對取車地址、營業時間、行李容量及異地還車。聽朝06:15離開有明酒店。",
+          "Sotetsu Grand Fresa Tokyo Bay Ariake 3-6-6 Ariake Tokyo"
         ]
       ]
     },
@@ -187,7 +186,7 @@
       "date": "11.10",
       "weekday": "星期二",
       "title": "鎌倉海風，再駛入富士山",
-      "area": "新宿 → 鎌倉 → 江之島 → 河口湖",
+      "area": "有明 → 新宿取車 → 鎌倉 → 江之島 → 河口湖",
       "tag": "自駕開始 · 長途日",
       "photo": "kamakura.jpg",
       "intro": "今日行程最緊湊。鎌倉只集中長谷一帶，江之島行前段，留足時間入河口湖。",
@@ -197,15 +196,15 @@
         "Kotoku-in Kamakura",
         "Hase-dera Kamakura",
         "Enoshima Shrine Hetsumiya Fujisawa",
-        "Toyoko Inn Fuji Kawaguchiko Ohashi"
+        "Super Hotel Fujikawaguchiko Natural Hot Spring 3062-5 Funatsu"
       ],
       "mode": "driving",
       "stops": [
         [
-          "06:30–07:30",
+          "05:45–07:30",
           "1",
           "早餐、退房、前往取車點",
-          "06:45左右退房；按最終酒店位置調整。行李全數帶走。",
+          "食預先買好嘅早餐，06:15退房出發，由國際展示場搭鐵路去新宿（按即時班次轉車），預75分鐘連步行。行李全數帶走；地圖①係取車點，有明至新宿接駁未畫入主圖。",
           "Nippon Rent A Car Shinjuku Minamiguchi Tokyo"
         ],
         [
@@ -276,14 +275,14 @@
           "4 → 5",
           "前往河口湖",
           "連休息及交通緩衝預約3小時15分鐘；途中服務區休息20–30分鐘，依即時導航選擇。",
-          ""
+          "Super Hotel Fujikawaguchiko Natural Hot Spring 3062-5 Funatsu"
         ],
         [
           "18:30–19:30",
           "5",
-          "河口湖酒店入住｜未預訂",
-          "地圖⑤暫用河口湖大橋一帶；揀定酒店後先用正式地址導航。確認酒店停車安排。",
-          ""
+          "富士河口湖天然溫泉超級酒店｜入住",
+          "住宿已確認；船津3062-5，普通車免費泊車先到先得。地圖⑤已改為此酒店。順便買聽朝早出門早餐。",
+          "Super Hotel Fujikawaguchiko Natural Hot Spring 3062-5 Funatsu"
         ],
         [
           "19:30–20:30",
@@ -297,7 +296,7 @@
           "5",
           "返酒店休息",
           "睇聽朝天氣，準備保暖外套同早起影富士山。",
-          ""
+          "Super Hotel Fujikawaguchiko Natural Hot Spring 3062-5 Funatsu"
         ]
       ]
     },
@@ -324,8 +323,8 @@
           "06:30–07:15",
           "1",
           "早餐、準備出門",
-          "早餐供應按最終酒店為準；未開餐就前一晚準備。保暖外套、飲水、舒服鞋。",
-          ""
+          "酒店早餐07:00先開始；為保留07:15出門安排，今日食前一晚買好嘅早餐。帶保暖外套、飲水及舒服鞋。",
+          "Super Hotel Fujikawaguchiko Natural Hot Spring 3062-5 Funatsu"
         ],
         [
           "07:15–08:00",
@@ -421,9 +420,9 @@
         [
           "20:00–21:30",
           "1",
-          "返酒店執行李",
-          "確認成田還車營業所、入油規則及接駁；聽朝07:30出發，唔再加景點。",
-          ""
+          "返超級酒店、溫泉及執行李",
+          "完成駕駛後可浸溫泉（開至翌日09:00）。確認還車營業所、入油規則及接駁；準備翌日早餐，07:30出發。",
+          "Super Hotel Fujikawaguchiko Natural Hot Spring 3062-5 Funatsu"
         ]
       ]
     },
@@ -438,7 +437,7 @@
       "intro": "今日重點係準時到機場。將休息、加油、還車同接駁全部計入，唔安排額外觀光。",
       "note": "16:50 起飛、第二航廈均待機票確認。若實際航班更早，必須整段提早。還車去營業所，唔係直接駛去航廈櫃位。",
       "route": [
-        "Toyoko Inn Fuji Kawaguchiko Ohashi",
+        "Super Hotel Fujikawaguchiko Natural Hot Spring 3062-5 Funatsu",
         "Nippon Rent A Car 495-2 Tokko Narita",
         "Narita Airport Terminal 2 Japan"
       ],
@@ -448,8 +447,8 @@
           "06:30–07:30",
           "1",
           "早餐、退房、檢查行李",
-          "07:30準時離開。地圖①係河口湖住宿區參考，出發點按最終酒店。",
-          ""
+          "由已確認嘅富士河口湖天然溫泉超級酒店出發。建議食預先買好嘅早餐；如食07:00酒店早餐，先執好行李，確保07:30離開。",
+          "Super Hotel Fujikawaguchiko Natural Hot Spring 3062-5 Funatsu"
         ],
         [
           "07:30–09:30",
@@ -526,73 +525,26 @@
   ],
   "hotels": [
     {
-      "name": "相鐵 Fresa Inn 東新宿站前",
-      "area": "東京 · 11/8–10 · 2晚",
-      "room": "Twin 約21–24㎡ · 兩張120cm床",
-      "text": "東京優先比較：近東新宿站，房型較適合兩人分床。前往新宿南口取車要另預交通時間。",
-      "price": "目標 HK$500／房／晚；指定日期雙床價未核實，可能超預算。",
-      "url": "https://sotetsu-hotels.com/en/fresa-inn/higashishinjuku/",
-      "query": "Sotetsu Fresa Inn Higashi Shinjuku"
+      "name": "東京灣有明相鐵 GRAND FRESA",
+      "area": "東京有明 · 11/8入住 → 11/10退房 · 2晚",
+      "status": "住宿已確認 · 旅客提供",
+      "room": "兩人入住；實際房型／床型以訂單為準",
+      "text": "東京都江東區有明3-6-6。國際展示場站及東京 Big Sight 站步行約3分鐘。入住15:00起，退房11:00前。Day 3 要預早由有明去新宿取車。",
+      "price": "已付房價、早餐及取消條款未提供，以訂單為準；原有預算不代表成交價。",
+      "url": "https://sotetsu-hotels.com/grand-fresa/ariake/",
+      "query": "Sotetsu Grand Fresa Tokyo Bay Ariake 3-6-6 Ariake Tokyo",
+      "linkLabel": "酒店官方資料"
     },
     {
-      "name": "相鐵 Fresa Inn 東京東陽町",
-      "area": "東京 · 11/8–10 · 2晚",
-      "room": "Twin 約21.1㎡ · 兩張120cm床",
-      "text": "備選：有正常雙床房。距原宿、澀谷及新宿取車點較遠，只有房價明顯較低先值得轉區。官方部分頁面目前維護中，訂房前再確認。",
-      "price": "目標 HK$500／房／晚；未核實房價及房量。",
-      "url": "https://sotetsu-hotels.com/en/fresa-inn/toyocho/",
-      "query": "Sotetsu Fresa Inn Tokyo Toyocho"
-    },
-    {
-      "name": "Asia Hotel 河口湖／アジアホテル河口湖",
-      "area": "河口湖 · 11/10–12 · 2晚",
-      "status": "11/6 查詢有房 · 未預訂",
-      "room": "禁煙 Twin 約25㎡ · 兩張單人床 · 私人浴廁",
-      "text": "符合酒店住宿要求；Booking.com評分8.0／46則，免費私人泊車。查詢兩成人、一房、11/10入住及11/12退房，頁面可選1間。免費取消期限顯示11/10 18:00前；以最終訂房條款為準。",
-      "price": "兩晚HK$1,215＋頁面列10% VAT，估算總額約HK$1,337，平均每晚約HK$669。屬查詢時報價，未鎖房；最終稅費及匯率以結算為準。",
-      "url": "https://www.booking.com/hotel/jp/aziahoteruhe-kou-hu-fu-shi-he-kou-hu-ting.html?checkin=2026-11-10&checkout=2026-11-12&group_adults=2&no_rooms=1&selected_currency=HKD",
-      "query": "アジアホテル河口湖 小立3804",
-      "linkLabel": "指定日期房型／訂房"
-    },
-    {
-      "name": "Fujisan Station Hotel 富士山站酒店",
-      "area": "富士吉田 · 11/10–12 · 2晚",
-      "status": "指定日期官網無雙床空房",
-      "room": "禁煙 Twin 21㎡ · 兩張120cm床",
-      "text": "優先比較：富士山站步行約2分鐘，免費早餐及35個免費車位。揀普通Twin，避免床貼埋嘅Hollywood Twin。去河口湖需揸車；早出發日可預先準備早餐。",
-      "price": "2026/11/6 查官方庫存：11/10及11/11均無可訂雙床房；唔作今次可訂推薦。",
-      "url": "https://www.fujisanstation-hotel.com/en/guestroom/",
-      "query": "Fujisan Station Hotel Fujiyoshida"
-    },
-    {
-      "name": "Resort Inn 芙蓉 河口湖 Inter",
-      "area": "富士吉田 · 11/10–12 · 2晚",
-      "status": "指定日期官網無雙床空房",
-      "room": "禁煙標準 Twin 21.5㎡ · 兩張semi-double床",
-      "text": "自駕實用候選：普通車免費泊車、住客可用附設大浴場；房內有私人淋浴及廁所。選標準Twin；16.2㎡ Petit Twin係一張床加額外床。偏實用商務風格，唔係新式精品酒店。早餐是否包按方案確認。",
-      "price": "2026/11/6 查官方庫存：11/10及11/11均無可訂雙床房；唔作今次可訂推薦。",
-      "url": "https://fuyo-hs.jp/hotel/room",
-      "query": "Resort Inn Fuyo Kawaguchiko Inter"
-    },
-    {
-      "name": "東橫 INN 富士河口湖大橋",
-      "area": "河口湖 · 11/10–12 · 2晚",
-      "room": "須選禁煙 Twin · 唔好揀 Double",
-      "text": "自駕預算候選，基本商務風格。官方列免費停車位、先到先得；入住前確認早餐及停車安排。",
-      "price": "11/10–12 已由旅客回報滿房；保留資料作記錄，今次唔作可訂候選。",
-      "url": "https://www.toyoko-inn.com/eng/campaign/pickup/kawaguchiko/",
-      "query": "Toyoko Inn Fuji Kawaguchiko Ohashi",
-      "status": "滿房 · 按旅客查詢結果"
-    },
-    {
-      "name": "West Inn 富士吉田",
-      "area": "富士吉田 · 11/10–12 · 2晚",
-      "room": "Twin 約19–25㎡ · 兩張semi-double床",
-      "text": "富士山區另一選擇，有停車安排，地段有便利店。離湖邊較遠，Day 4要按位置微調出門時間。",
-      "price": "11/10–12 已由旅客回報滿房；保留資料作記錄，今次唔作可訂候選。",
-      "url": "https://www.westinn.jp/en/stay",
-      "query": "West Inn Fujiyoshida",
-      "status": "滿房 · 按旅客查詢結果"
+      "name": "富士河口湖天然溫泉超級酒店",
+      "area": "河口湖 · 11/10入住 → 11/12退房 · 2晚",
+      "status": "住宿已確認 · 旅客提供",
+      "room": "兩人入住；實際房型／床型以訂單為準",
+      "text": "山梨縣南都留郡富士河口湖町船津3062-5。入住15:00起，退房10:00前。普通車免費泊車80個車位，先到先得。免費早餐07:00–09:00；天然溫泉15:00–翌日09:00。",
+      "price": "已付房價及取消條款以訂單為準。早出發日建議預先買早餐；唔好預06:30已有酒店早餐。",
+      "url": "https://www.superhotel.co.jp/s_hotels/kawaguchiko/",
+      "query": "Super Hotel Fujikawaguchiko Natural Hot Spring 3062-5 Funatsu",
+      "linkLabel": "酒店官方資料"
     }
   ]
 }
